@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.Stack;
 
-    public class Main {
+    public class Labactivity1 {
     public static void main(String[] args) {
 
         System.out.println("Enter number of Strings to enter :");
